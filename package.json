@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://DEV3S10.github.io/OShop",
+  "homepage": "https://DEV3S10.github.io/oshop",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
